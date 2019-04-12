@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="practice1.SecurityTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-04-12T13:24:40" hostname="DESKTOP-0EL7MOI" time="0.387">
+  <properties/>
+  <testcase name="should_get_true_when_permissions_include_input_permission_and_check_current_permission_false" classname="practice1.SecurityTest" time="0.32"/>
+  <testcase name="should_get_true_when_user_is_not_admin" classname="practice1.SecurityTest" time="0.0"/>
+  <testcase name="should_get_false_when_permissions_is_empty" classname="practice1.SecurityTest" time="0.008"/>
+  <testcase name="should_get_true_when_user_is_admin" classname="practice1.SecurityTest" time="0.015"/>
+  <testcase name="should_get_false_when_permission_is_null" classname="practice1.SecurityTest" time="0.01"/>
+  <testcase name="should_get_true_when_permissions_not_include_input_permission_and_check_current_permission_true" classname="practice1.SecurityTest" time="0.01"/>
+  <testcase name="should_get_false_when_user_is_null" classname="practice1.SecurityTest" time="0.002"/>
+  <testcase name="should_get_false_when_permissions_not_include_input_permission_and_check_current_permission_false" classname="practice1.SecurityTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
